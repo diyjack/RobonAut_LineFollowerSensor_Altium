@@ -1,0 +1,14 @@
+Component   : TSSOP16
+PCB Library : LineFollowerSensor.PcbLib
+Date        : 2012.11.03.
+Time        : 1:19:02
+
+
+
+Dimension : 7.595 x 5.893 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          4        0       2        0
+--------------------------------------------------------------------
+ Total                       0          4        0       2        0

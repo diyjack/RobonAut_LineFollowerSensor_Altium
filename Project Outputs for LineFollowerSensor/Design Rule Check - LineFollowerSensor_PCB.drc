@@ -1,0 +1,257 @@
+Protel Design System Design Rule Check
+PCB File : D:\Altium_wokrspace\RobonAut_LineFollowerSensor\LineFollowerSensor_PCB.PcbDoc
+Date     : 2012.11.18.
+Time     : 16:29:54
+
+Processing Rule : Clearance Constraint (Gap=0.5mm) (Inpoly),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.7mm) (Max=10mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.05mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=0.254mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Text "C1" (103.022mm,99.06mm)  Top Overlay and 
+                     Track (100.562mm,100.468mm)(104.162mm,100.468mm)  Top Overlay
+   Violation between Text "C1" (103.022mm,99.06mm)  Top Overlay and 
+                     Track (100.562mm,98.668mm)(104.162mm,98.668mm)  Top Overlay
+   Violation between Text "C4" (142.037mm,106.68mm)  Top Overlay and 
+                     Track (141.975mm,105.388mm)(141.975mm,108.988mm)  Top Overlay
+   Violation between Text "C2" (144.069mm,106.68mm)  Top Overlay and 
+                     Track (143.775mm,105.388mm)(143.775mm,108.988mm)  Top Overlay
+   Violation between Text "C4" (142.037mm,106.68mm)  Top Overlay and 
+                     Track (143.775mm,105.388mm)(143.775mm,108.988mm)  Top Overlay
+   Violation between Text "C3" (156.642mm,106.553mm)  Top Overlay and 
+                     Track (156.58mm,105.261mm)(156.58mm,108.861mm)  Top Overlay
+   Violation between Text "C3" (156.642mm,106.553mm)  Top Overlay and 
+                     Track (158.38mm,105.261mm)(158.38mm,108.861mm)  Top Overlay
+   Violation between Text "C8" (260.401mm,106.934mm)  Top Overlay and 
+                     Track (260.339mm,105.642mm)(260.339mm,109.242mm)  Top Overlay
+   Violation between Text "C8" (260.401mm,106.934mm)  Top Overlay and 
+                     Track (262.139mm,105.642mm)(262.139mm,109.242mm)  Top Overlay
+   Violation between Text "C6" (274.625mm,106.553mm)  Top Overlay and 
+                     Track (274.563mm,105.261mm)(274.563mm,108.861mm)  Top Overlay
+   Violation between Text "C6" (274.625mm,106.553mm)  Top Overlay and 
+                     Track (276.363mm,105.261mm)(276.363mm,108.861mm)  Top Overlay
+   Violation between Text "C2" (144.069mm,106.68mm)  Top Overlay and 
+                     Track (144.007mm,105.388mm)(144.007mm,108.988mm)  Top Overlay
+   Violation between Text "C4" (142.037mm,106.68mm)  Top Overlay and 
+                     Track (144.007mm,105.388mm)(144.007mm,108.988mm)  Top Overlay
+   Violation between Text "C2" (144.069mm,106.68mm)  Top Overlay and 
+                     Track (145.807mm,105.388mm)(145.807mm,108.988mm)  Top Overlay
+   Violation between Text "C7" (262.179mm,102.235mm)  Top Overlay and 
+                     Track (263.917mm,100.943mm)(263.917mm,104.543mm)  Top Overlay
+   Violation between Text "C7" (262.179mm,102.235mm)  Top Overlay and 
+                     Track (262.117mm,100.943mm)(262.117mm,104.543mm)  Top Overlay
+   Violation between Text "R32" (281mm,114.681mm)  Bottom Overlay and 
+                     Track (280.521mm,114.289mm)(284.121mm,114.289mm)  Bottom Overlay
+   Violation between Text "R32" (281mm,114.681mm)  Bottom Overlay and 
+                     Track (284.121mm,114.289mm)(284.121mm,116.089mm)  Bottom Overlay
+   Violation between Text "R32" (281mm,114.681mm)  Bottom Overlay and 
+                     Track (280.521mm,116.089mm)(284.121mm,116.089mm)  Bottom Overlay
+   Violation between Text "R32" (281mm,114.681mm)  Bottom Overlay and 
+                     Track (280.521mm,114.289mm)(280.521mm,116.089mm)  Bottom Overlay
+   Violation between Text "R31" (273.787mm,114.681mm)  Bottom Overlay and 
+                     Track (273.155mm,114.289mm)(276.755mm,114.289mm)  Bottom Overlay
+   Violation between Text "R31" (273.787mm,114.681mm)  Bottom Overlay and 
+                     Track (273.155mm,116.089mm)(276.755mm,116.089mm)  Bottom Overlay
+   Violation between Text "R30" (266.268mm,114.681mm)  Bottom Overlay and 
+                     Track (265.789mm,114.289mm)(269.389mm,114.289mm)  Bottom Overlay
+   Violation between Text "R30" (266.268mm,114.681mm)  Bottom Overlay and 
+                     Track (269.389mm,114.289mm)(269.389mm,116.089mm)  Bottom Overlay
+   Violation between Text "R30" (266.268mm,114.681mm)  Bottom Overlay and 
+                     Track (265.789mm,116.089mm)(269.389mm,116.089mm)  Bottom Overlay
+   Violation between Text "R30" (266.268mm,114.681mm)  Bottom Overlay and 
+                     Track (265.789mm,114.289mm)(265.789mm,116.089mm)  Bottom Overlay
+   Violation between Text "R29" (258.902mm,114.681mm)  Bottom Overlay and 
+                     Track (258.423mm,114.289mm)(262.023mm,114.289mm)  Bottom Overlay
+   Violation between Text "R29" (258.902mm,114.681mm)  Bottom Overlay and 
+                     Track (262.023mm,114.289mm)(262.023mm,116.089mm)  Bottom Overlay
+   Violation between Text "R29" (258.902mm,114.681mm)  Bottom Overlay and 
+                     Track (258.423mm,116.089mm)(262.023mm,116.089mm)  Bottom Overlay
+   Violation between Text "R29" (258.902mm,114.681mm)  Bottom Overlay and 
+                     Track (258.423mm,114.289mm)(258.423mm,116.089mm)  Bottom Overlay
+   Violation between Text "R28" (251.536mm,114.681mm)  Bottom Overlay and 
+                     Track (251.057mm,114.289mm)(254.657mm,114.289mm)  Bottom Overlay
+   Violation between Text "R28" (251.536mm,114.681mm)  Bottom Overlay and 
+                     Track (254.657mm,114.289mm)(254.657mm,116.089mm)  Bottom Overlay
+   Violation between Text "R28" (251.536mm,114.681mm)  Bottom Overlay and 
+                     Track (251.057mm,116.089mm)(254.657mm,116.089mm)  Bottom Overlay
+   Violation between Text "R28" (251.536mm,114.681mm)  Bottom Overlay and 
+                     Track (251.057mm,114.289mm)(251.057mm,116.089mm)  Bottom Overlay
+   Violation between Text "R27" (244.17mm,114.681mm)  Bottom Overlay and 
+                     Track (243.691mm,114.289mm)(247.291mm,114.289mm)  Bottom Overlay
+   Violation between Text "R27" (244.17mm,114.681mm)  Bottom Overlay and 
+                     Track (247.291mm,114.289mm)(247.291mm,116.089mm)  Bottom Overlay
+   Violation between Text "R27" (244.17mm,114.681mm)  Bottom Overlay and 
+                     Track (243.691mm,116.089mm)(247.291mm,116.089mm)  Bottom Overlay
+   Violation between Text "R27" (244.17mm,114.681mm)  Bottom Overlay and 
+                     Track (243.691mm,114.289mm)(243.691mm,116.089mm)  Bottom Overlay
+   Violation between Text "R26" (236.804mm,114.681mm)  Bottom Overlay and 
+                     Track (236.325mm,114.289mm)(239.925mm,114.289mm)  Bottom Overlay
+   Violation between Text "R26" (236.804mm,114.681mm)  Bottom Overlay and 
+                     Track (239.925mm,114.289mm)(239.925mm,116.089mm)  Bottom Overlay
+   Violation between Text "R26" (236.804mm,114.681mm)  Bottom Overlay and 
+                     Track (236.325mm,116.089mm)(239.925mm,116.089mm)  Bottom Overlay
+   Violation between Text "R26" (236.804mm,114.681mm)  Bottom Overlay and 
+                     Track (236.325mm,114.289mm)(236.325mm,116.089mm)  Bottom Overlay
+   Violation between Text "R25" (229.438mm,114.681mm)  Bottom Overlay and 
+                     Track (228.959mm,114.289mm)(232.559mm,114.289mm)  Bottom Overlay
+   Violation between Text "R25" (229.438mm,114.681mm)  Bottom Overlay and 
+                     Track (232.559mm,114.289mm)(232.559mm,116.089mm)  Bottom Overlay
+   Violation between Text "R25" (229.438mm,114.681mm)  Bottom Overlay and 
+                     Track (228.959mm,116.089mm)(232.559mm,116.089mm)  Bottom Overlay
+   Violation between Text "R25" (229.438mm,114.681mm)  Bottom Overlay and 
+                     Track (228.959mm,114.289mm)(228.959mm,116.089mm)  Bottom Overlay
+   Violation between Text "R24" (222.072mm,114.681mm)  Bottom Overlay and 
+                     Track (221.593mm,114.289mm)(225.193mm,114.289mm)  Bottom Overlay
+   Violation between Text "R24" (222.072mm,114.681mm)  Bottom Overlay and 
+                     Track (225.193mm,114.289mm)(225.193mm,116.089mm)  Bottom Overlay
+   Violation between Text "R24" (222.072mm,114.681mm)  Bottom Overlay and 
+                     Track (221.593mm,116.089mm)(225.193mm,116.089mm)  Bottom Overlay
+   Violation between Text "R24" (222.072mm,114.681mm)  Bottom Overlay and 
+                     Track (221.593mm,114.289mm)(221.593mm,116.089mm)  Bottom Overlay
+   Violation between Text "R23" (214.706mm,114.681mm)  Bottom Overlay and 
+                     Track (214.227mm,114.289mm)(217.827mm,114.289mm)  Bottom Overlay
+   Violation between Text "R23" (214.706mm,114.681mm)  Bottom Overlay and 
+                     Track (217.827mm,114.289mm)(217.827mm,116.089mm)  Bottom Overlay
+   Violation between Text "R23" (214.706mm,114.681mm)  Bottom Overlay and 
+                     Track (214.227mm,116.089mm)(217.827mm,116.089mm)  Bottom Overlay
+   Violation between Text "R23" (214.706mm,114.681mm)  Bottom Overlay and 
+                     Track (214.227mm,114.289mm)(214.227mm,116.089mm)  Bottom Overlay
+   Violation between Text "R22" (207.34mm,114.681mm)  Bottom Overlay and 
+                     Track (206.861mm,114.289mm)(210.461mm,114.289mm)  Bottom Overlay
+   Violation between Text "R22" (207.34mm,114.681mm)  Bottom Overlay and 
+                     Track (210.461mm,114.289mm)(210.461mm,116.089mm)  Bottom Overlay
+   Violation between Text "R22" (207.34mm,114.681mm)  Bottom Overlay and 
+                     Track (206.861mm,116.089mm)(210.461mm,116.089mm)  Bottom Overlay
+   Violation between Text "R22" (207.34mm,114.681mm)  Bottom Overlay and 
+                     Track (206.861mm,114.289mm)(206.861mm,116.089mm)  Bottom Overlay
+   Violation between Text "R21" (200mm,114.681mm)  Bottom Overlay and 
+                     Track (199.368mm,114.289mm)(202.968mm,114.289mm)  Bottom Overlay
+   Violation between Text "R21" (200mm,114.681mm)  Bottom Overlay and 
+                     Track (199.368mm,116.089mm)(202.968mm,116.089mm)  Bottom Overlay
+   Violation between Text "R20" (192.608mm,114.681mm)  Bottom Overlay and 
+                     Track (192.129mm,114.289mm)(195.729mm,114.289mm)  Bottom Overlay
+   Violation between Text "R20" (192.608mm,114.681mm)  Bottom Overlay and 
+                     Track (195.729mm,114.289mm)(195.729mm,116.089mm)  Bottom Overlay
+   Violation between Text "R20" (192.608mm,114.681mm)  Bottom Overlay and 
+                     Track (192.129mm,116.089mm)(195.729mm,116.089mm)  Bottom Overlay
+   Violation between Text "R20" (192.608mm,114.681mm)  Bottom Overlay and 
+                     Track (192.129mm,114.289mm)(192.129mm,116.089mm)  Bottom Overlay
+   Violation between Text "R19" (185.318mm,114.681mm)  Bottom Overlay and 
+                     Track (184.763mm,114.289mm)(188.363mm,114.289mm)  Bottom Overlay
+   Violation between Text "R19" (185.318mm,114.681mm)  Bottom Overlay and 
+                     Track (184.763mm,116.089mm)(188.363mm,116.089mm)  Bottom Overlay
+   Violation between Text "R18" (177.952mm,114.681mm)  Bottom Overlay and 
+                     Track (177.397mm,114.289mm)(180.997mm,114.289mm)  Bottom Overlay
+   Violation between Text "R18" (177.952mm,114.681mm)  Bottom Overlay and 
+                     Track (177.397mm,116.089mm)(180.997mm,116.089mm)  Bottom Overlay
+   Violation between Text "R17" (170.586mm,114.681mm)  Bottom Overlay and 
+                     Track (170.031mm,116.089mm)(173.631mm,116.089mm)  Bottom Overlay
+   Violation between Text "R17" (170.586mm,114.681mm)  Bottom Overlay and 
+                     Track (170.031mm,114.289mm)(173.631mm,114.289mm)  Bottom Overlay
+   Violation between Text "R16" (163.22mm,114.681mm)  Bottom Overlay and 
+                     Track (162.665mm,114.289mm)(166.265mm,114.289mm)  Bottom Overlay
+   Violation between Text "R16" (163.22mm,114.681mm)  Bottom Overlay and 
+                     Track (162.665mm,116.089mm)(166.265mm,116.089mm)  Bottom Overlay
+   Violation between Text "R15" (155.981mm,114.681mm)  Bottom Overlay and 
+                     Track (155.426mm,114.289mm)(159.026mm,114.289mm)  Bottom Overlay
+   Violation between Text "R15" (155.981mm,114.681mm)  Bottom Overlay and 
+                     Track (155.426mm,116.089mm)(159.026mm,116.089mm)  Bottom Overlay
+   Violation between Text "R14" (148.488mm,114.681mm)  Bottom Overlay and 
+                     Track (147.933mm,114.289mm)(151.533mm,114.289mm)  Bottom Overlay
+   Violation between Text "R14" (148.488mm,114.681mm)  Bottom Overlay and 
+                     Track (147.933mm,116.089mm)(151.533mm,116.089mm)  Bottom Overlay
+   Violation between Text "R13" (141.122mm,114.681mm)  Bottom Overlay and 
+                     Track (140.567mm,114.289mm)(144.167mm,114.289mm)  Bottom Overlay
+   Violation between Text "R13" (141.122mm,114.681mm)  Bottom Overlay and 
+                     Track (140.567mm,116.089mm)(144.167mm,116.089mm)  Bottom Overlay
+   Violation between Text "R12" (133.756mm,114.681mm)  Bottom Overlay and 
+                     Track (133.201mm,114.289mm)(136.801mm,114.289mm)  Bottom Overlay
+   Violation between Text "R12" (133.756mm,114.681mm)  Bottom Overlay and 
+                     Track (133.201mm,116.089mm)(136.801mm,116.089mm)  Bottom Overlay
+   Violation between Text "R11" (126.543mm,114.681mm)  Bottom Overlay and 
+                     Track (125.835mm,114.289mm)(129.435mm,114.289mm)  Bottom Overlay
+   Violation between Text "R11" (126.543mm,114.681mm)  Bottom Overlay and 
+                     Track (125.835mm,116.089mm)(129.435mm,116.089mm)  Bottom Overlay
+   Violation between Text "R10" (119.024mm,114.681mm)  Bottom Overlay and 
+                     Track (118.469mm,114.289mm)(122.069mm,114.289mm)  Bottom Overlay
+   Violation between Text "R10" (119.024mm,114.681mm)  Bottom Overlay and 
+                     Track (118.469mm,116.089mm)(122.069mm,116.089mm)  Bottom Overlay
+   Violation between Text "R9" (112.192mm,114.681mm)  Bottom Overlay and 
+                     Track (111.23mm,114.289mm)(114.83mm,114.289mm)  Bottom Overlay
+   Violation between Text "R9" (112.192mm,114.681mm)  Bottom Overlay and 
+                     Track (111.23mm,116.089mm)(114.83mm,116.089mm)  Bottom Overlay
+   Violation between Text "R8" (104.699mm,114.681mm)  Bottom Overlay and 
+                     Track (103.737mm,114.289mm)(107.337mm,114.289mm)  Bottom Overlay
+   Violation between Text "R8" (104.699mm,114.681mm)  Bottom Overlay and 
+                     Track (103.737mm,116.089mm)(107.337mm,116.089mm)  Bottom Overlay
+   Violation between Text "R7" (97.333mm,114.681mm)  Bottom Overlay and 
+                     Track (96.371mm,114.289mm)(99.971mm,114.289mm)  Bottom Overlay
+   Violation between Text "R7" (97.333mm,114.681mm)  Bottom Overlay and 
+                     Track (96.371mm,116.089mm)(99.971mm,116.089mm)  Bottom Overlay
+   Violation between Text "R6" (89.967mm,114.681mm)  Bottom Overlay and 
+                     Track (89.005mm,114.289mm)(92.605mm,114.289mm)  Bottom Overlay
+   Violation between Text "R6" (89.967mm,114.681mm)  Bottom Overlay and 
+                     Track (89.005mm,116.089mm)(92.605mm,116.089mm)  Bottom Overlay
+   Violation between Text "R5" (82.601mm,114.681mm)  Bottom Overlay and 
+                     Track (81.639mm,114.289mm)(85.239mm,114.289mm)  Bottom Overlay
+   Violation between Text "R5" (82.601mm,114.681mm)  Bottom Overlay and 
+                     Track (81.639mm,116.089mm)(85.239mm,116.089mm)  Bottom Overlay
+   Violation between Text "R4" (75.235mm,114.681mm)  Bottom Overlay and 
+                     Track (74.273mm,114.289mm)(77.873mm,114.289mm)  Bottom Overlay
+   Violation between Text "R4" (75.235mm,114.681mm)  Bottom Overlay and 
+                     Track (74.273mm,116.089mm)(77.873mm,116.089mm)  Bottom Overlay
+   Violation between Text "R3" (67.996mm,114.681mm)  Bottom Overlay and 
+                     Track (67.034mm,114.289mm)(70.634mm,114.289mm)  Bottom Overlay
+   Violation between Text "R3" (67.996mm,114.681mm)  Bottom Overlay and 
+                     Track (67.034mm,116.089mm)(70.634mm,116.089mm)  Bottom Overlay
+   Violation between Text "R2" (60.503mm,114.681mm)  Bottom Overlay and 
+                     Track (59.541mm,114.289mm)(63.141mm,114.289mm)  Bottom Overlay
+   Violation between Text "R2" (60.503mm,114.681mm)  Bottom Overlay and 
+                     Track (59.541mm,116.089mm)(63.141mm,116.089mm)  Bottom Overlay
+   Violation between Text "R1" (53.315mm,114.681mm)  Bottom Overlay and 
+                     Track (52.175mm,116.089mm)(55.775mm,116.089mm)  Bottom Overlay
+   Violation between Text "R1" (53.315mm,114.681mm)  Bottom Overlay and 
+                     Track (52.175mm,114.289mm)(55.775mm,114.289mm)  Bottom Overlay
+   Violation between Text "C5" (219.507mm,99.822mm)  Bottom Overlay and 
+                     Track (218.545mm,99.43mm)(222.145mm,99.43mm)  Bottom Overlay
+   Violation between Text "C5" (219.507mm,99.822mm)  Bottom Overlay and 
+                     Track (218.545mm,101.23mm)(222.145mm,101.23mm)  Bottom Overlay
+   Violation between Text "C4" (142.037mm,106.68mm)  Top Overlay and 
+                     Text "C2" (144.069mm,106.68mm)  Top Overlay
+Rule Violations :105
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.25mm) (Max=1mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 105
+Time Elapsed        : 00:00:02

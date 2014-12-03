@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LineFollowerSensor.PrjPcb]
+   Generated File[LineFollowerSensor_PCB.TXT]
+   Generated File[LineFollowerSensor_PCB.DRL]
+   Generated File[LineFollowerSensor_PCB.LDP]
+   Generated File[LineFollowerSensor_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 16:37:49 On 2012.11.18.
